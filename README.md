@@ -11,7 +11,6 @@ This is a simple calculator application built with React. It allows users to per
 - [Installation](#installation)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
