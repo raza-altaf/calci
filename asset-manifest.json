@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/calci/static/css/main.1311fe9a.css",
+    "main.js": "/calci/static/js/main.3e065ad8.js",
+    "index.html": "/calci/index.html",
+    "main.1311fe9a.css.map": "/calci/static/css/main.1311fe9a.css.map",
+    "main.3e065ad8.js.map": "/calci/static/js/main.3e065ad8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1311fe9a.css",
+    "static/js/main.3e065ad8.js"
+  ]
+}
