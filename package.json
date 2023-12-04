@@ -1,6 +1,7 @@
 {
   "name": "calc-app",
   "version": "0.1.0",
+  "homepage": "https://raza-altaf.github.io/calci",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
@@ -13,11 +14,12 @@
     "web-vitals": "^2.1.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",    
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "post install" : "generate prisma"
   },
   "eslintConfig": {
     "extends": [
