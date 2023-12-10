@@ -10,7 +10,7 @@ This is a simple calculator application built with React. It allows users to per
 - [Usage](#usage)
 - [Installation](#installation)
 - [Dependencies](#dependencies)
-- [Contributing](#contributing)
+- [Contributing](#contribution)
 
 ## Features
 
@@ -61,6 +61,6 @@ This is a simple calculator application built with React. It allows users to per
 - React: [https://reactjs.org/](https://reactjs.org/)
 - React Textfit: [https://github.com/malte-wessel/react-textfit](https://github.com/malte-wessel/react-textfit)
 
-## Contributing
+## Contribution
 
 Contributions are welcome! If you find a bug or have an idea for an improvement, feel free to open an issue or submit a pull request.
